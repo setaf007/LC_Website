@@ -1,0 +1,15 @@
+<InfoRow>
+    <Column1>
+        <ImgWrap data-aos="fade-up">
+            <Img src={Image2}/>
+        </ImgWrap>
+    </Column1>
+    <Column2>
+        <TextWrapper className='luck' data-aos="fade-up">
+                <Heading>Try your luck</Heading> 
+                <Subtitle className='lucky'>SOME OF THE BIGGEST SOLANA NFTs inside our crates!</Subtitle>
+                <Subtitle className='lucky'>50% of crates have NFTs inside them</Subtitle>
+                <Subtitle className='lucky'>The other 50% of crates enter you into our raffle for a SMB</Subtitle>
+        </TextWrapper>
+    </Column2>
+</InfoRow>
